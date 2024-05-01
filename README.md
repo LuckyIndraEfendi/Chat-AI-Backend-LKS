@@ -24,7 +24,7 @@ Overall, Backend-LKS-Networking combines the power of Express.js with authentica
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your_username/your_project.git
+   git clone https://github.com/LuckyIndraEfendi/Chat-AI-Backend-LKS.git
    ```
 2. Navigate to the directory where the project is located:
    ```sh
